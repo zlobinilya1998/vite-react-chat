@@ -1,0 +1,25 @@
+.chat {
+  background: #1a1a1a;
+  padding: 20px 40px;
+  border-radius: 12px;
+  width: 600px;
+  margin: 0 auto;
+}
+.chat-wrapper {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+.chat-arrow {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  background: #1a1a1a;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 8px;
+  transition: .3s;
+}
+.chat-arrow:hover {
+  filter: drop-shadow(0 0 1em #646cffaa);;
+}

@@ -1,0 +1,15 @@
+.chat-message {
+    text-align: left;
+    padding-right: 20px;
+}
+.message-author {
+    margin: 10px 0;
+    font-weight: bold;
+}
+.message-text {
+
+}
+.message-time {
+    font-weight: lighter;
+
+}
